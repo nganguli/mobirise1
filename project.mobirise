@@ -103,7 +103,7 @@
           },
           "title": "<b>2018 Annual Report</b>",
           "text": "Welcome to the annual report for the Healthcare PBM SBU headed by Vijey and covering Walgreens, ESHC, CVS, Optioncare and Navihealth. Please scroll down or click Learn More to view the online report or click the Download button below to save an offline copy.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html#image1-o\" data-toolbar=\"-mbrBtnMove\">Download Report</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"AnnualReport.html#slider-2\" data-toolbar=\"-mbrBtnMove\">Keep Reading</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page1.html#image1-o\" data-toolbar=\"-mbrBtnMove\">&nbsp; Download &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"AnnualReport.html#slider-2\" data-toolbar=\"-mbrBtnMove\">Keep Reading</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
